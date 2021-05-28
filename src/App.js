@@ -119,9 +119,7 @@ function App() {
                                     <Button className="btn btn-danger" onClick={() => { deleteEmployee(val.id) }}>Delete</Button>
                                 </div>
                             </Card.Body>
-
                         </Card>
-
                     )
                 })}
             </div>
